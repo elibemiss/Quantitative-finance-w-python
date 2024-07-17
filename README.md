@@ -1,4 +1,3 @@
 # yfinance-predictor
-### Here's a notebook with some data extraction/setup for a stock predictor
-### In my case, I use the s&p500 index as an example and create a binary predictor variable for if the market went up or down
-### Then, there are a few additional metrics created and the beginnings of what will be an XGBoost prediction model
+### Here's a notebook with some data extraction/setup for a technical analysis and stock predictor
+### The code will walk through using/normalizing log returns, creating and testing technical indicators with yfinance and pandas-ta, and visualizing
